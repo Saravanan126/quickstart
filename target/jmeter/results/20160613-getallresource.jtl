@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1002" lt="1002" ts="1465854050129" s="true" lb="Get all Post Resource " rc="200" rm="OK" tn="Sample API  1-1" dt="text" by="27932" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="555" lt="555" ts="1465854051147" s="true" lb="Get one Post Resource" rc="200" rm="OK" tn="Sample API  1-1" dt="text" by="701" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+</testResults>

@@ -1,0 +1,16 @@
+1465853914921,1222,Create Post Resource,201,Created,Sample API  1-1,text,true,501,1,1,1222,1,0,US-Photons-MacBook-Pro.local,149
+1465853916154,853,Get all Post Resource ,200,OK,Sample API  1-1,text,true,27932,1,1,853,1,0,US-Photons-MacBook-Pro.local,0
+1465853917012,572,Get one Post Resource,200,OK,Sample API  1-1,text,true,701,1,1,571,1,0,US-Photons-MacBook-Pro.local,0
+1465853917586,520,Get Resource Comments,200,OK,Sample API  1-1,text,true,1920,1,1,520,1,0,US-Photons-MacBook-Pro.local,0
+1465853919247,855,Create Post Resource,201,Created,Sample API  1-1,text,true,501,1,1,855,1,0,US-Photons-MacBook-Pro.local,48
+1465853921228,730,Get all Post Resource ,200,OK,Sample API  1-1,text,true,27932,1,1,730,1,0,US-Photons-MacBook-Pro.local,44
+1465853921974,416,Get one Post Resource,200,OK,Sample API  1-1,text,true,701,1,1,415,1,0,US-Photons-MacBook-Pro.local,0
+1465853923648,0,Get Resource Comments,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 42: http://jsonplaceholder.typicode.com/posts/<EOF>/comments,Sample API  1-1,text,false,957,1,1,0,1,1,US-Photons-MacBook-Pro.local,0
+1465854043745,654,Create Post Resource,201,Created,Sample API  1-1,text,true,501,1,1,654,1,0,US-Photons-MacBook-Pro.local,105
+1465854044413,1490,Get all Post Resource ,200,OK,Sample API  1-1,text,true,27932,1,1,1490,1,0,US-Photons-MacBook-Pro.local,0
+1465854045908,679,Get one Post Resource,200,OK,Sample API  1-1,text,true,701,1,1,679,1,0,US-Photons-MacBook-Pro.local,0
+1465854046589,831,Get Resource Comments,200,OK,Sample API  1-1,text,true,1920,1,1,831,1,0,US-Photons-MacBook-Pro.local,0
+1465854048568,419,Create Post Resource,201,Created,Sample API  1-1,text,true,501,1,1,418,1,0,US-Photons-MacBook-Pro.local,48
+1465854050129,1002,Get all Post Resource ,200,OK,Sample API  1-1,text,true,27932,1,1,1002,1,0,US-Photons-MacBook-Pro.local,43
+1465854051147,555,Get one Post Resource,200,OK,Sample API  1-1,text,true,701,1,1,555,1,0,US-Photons-MacBook-Pro.local,0
+1465854052950,0,Get Resource Comments,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 42: http://jsonplaceholder.typicode.com/posts/<EOF>/comments,Sample API  1-1,text,false,957,1,1,0,1,1,US-Photons-MacBook-Pro.local,0
