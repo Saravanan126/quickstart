@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testResults version="1.2">
-<httpSample t="0" lt="0" ts="1465854052950" s="false" lb="Get Resource Comments" rc="Non HTTP response code: java.net.URISyntaxException" rm="Non HTTP response message: Illegal character in path at index 42: http://jsonplaceholder.typicode.com/posts/&lt;EOF&gt;/comments" tn="Sample API  1-1" dt="text" by="957" ng="1" na="1">
+<httpSample t="0" lt="0" ts="1465856304091" s="false" lb="Get Resource Comments" rc="Non HTTP response code: java.net.URISyntaxException" rm="Non HTTP response message: Illegal character in path at index 42: http://jsonplaceholder.typicode.com/posts/&lt;EOF&gt;/comments" tn="Sample API  1-1" dt="text" by="957" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>true</failure>

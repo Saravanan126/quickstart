@@ -14,3 +14,11 @@
 1465854050129,1002,Get all Post Resource ,200,OK,Sample API  1-1,text,true,27932,1,1,1002,1,0,US-Photons-MacBook-Pro.local,43
 1465854051147,555,Get one Post Resource,200,OK,Sample API  1-1,text,true,701,1,1,555,1,0,US-Photons-MacBook-Pro.local,0
 1465854052950,0,Get Resource Comments,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 42: http://jsonplaceholder.typicode.com/posts/<EOF>/comments,Sample API  1-1,text,false,957,1,1,0,1,1,US-Photons-MacBook-Pro.local,0
+1465856295592,1207,Create Post Resource,201,Created,Sample API  1-1,text,true,501,1,1,1207,1,0,US-Photons-MacBook-Pro.local,483
+1465856296813,1215,Get all Post Resource ,200,OK,Sample API  1-1,text,true,27932,1,1,1215,1,0,US-Photons-MacBook-Pro.local,0
+1465856298033,572,Get one Post Resource,200,OK,Sample API  1-1,text,true,701,1,1,572,1,0,US-Photons-MacBook-Pro.local,0
+1465856298608,246,Get Resource Comments,200,OK,Sample API  1-1,text,true,1920,1,1,246,1,0,US-Photons-MacBook-Pro.local,0
+1465856300052,367,Create Post Resource,201,Created,Sample API  1-1,text,true,501,1,1,367,1,0,US-Photons-MacBook-Pro.local,55
+1465856301613,635,Get all Post Resource ,200,OK,Sample API  1-1,text,true,27932,1,1,635,1,0,US-Photons-MacBook-Pro.local,50
+1465856302269,515,Get one Post Resource,200,OK,Sample API  1-1,text,true,701,1,1,514,1,0,US-Photons-MacBook-Pro.local,0
+1465856304091,0,Get Resource Comments,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 42: http://jsonplaceholder.typicode.com/posts/<EOF>/comments,Sample API  1-1,text,false,957,1,1,0,1,1,US-Photons-MacBook-Pro.local,0

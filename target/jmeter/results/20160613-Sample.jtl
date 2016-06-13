@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testResults version="1.2">
-<httpSample t="654" lt="654" ts="1465854043745" s="true" lb="Create Post Resource" rc="201" rm="Created" tn="Sample API  1-1" dt="text" by="501" ng="1" na="1">
+<httpSample t="1207" lt="1207" ts="1465856295592" s="true" lb="Create Post Resource" rc="201" rm="Created" tn="Sample API  1-1" dt="text" by="501" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="1490" lt="1490" ts="1465854044413" s="true" lb="Get all Post Resource " rc="200" rm="OK" tn="Sample API  1-1" dt="text" by="27932" ng="1" na="1">
+<httpSample t="1215" lt="1215" ts="1465856296813" s="true" lb="Get all Post Resource " rc="200" rm="OK" tn="Sample API  1-1" dt="text" by="27932" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="679" lt="679" ts="1465854045908" s="true" lb="Get one Post Resource" rc="200" rm="OK" tn="Sample API  1-1" dt="text" by="701" ng="1" na="1">
+<httpSample t="572" lt="572" ts="1465856298033" s="true" lb="Get one Post Resource" rc="200" rm="OK" tn="Sample API  1-1" dt="text" by="701" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="831" lt="831" ts="1465854046589" s="true" lb="Get Resource Comments" rc="200" rm="OK" tn="Sample API  1-1" dt="text" by="1920" ng="1" na="1">
+<httpSample t="246" lt="246" ts="1465856298608" s="true" lb="Get Resource Comments" rc="200" rm="OK" tn="Sample API  1-1" dt="text" by="1920" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
