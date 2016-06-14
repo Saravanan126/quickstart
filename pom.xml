@@ -28,7 +28,7 @@
 						<language>en</language>
 						<sampleresult.timestamp.start>true</sampleresult.timestamp.start>
 						<jmeter.save.saveservice.timestamp_format>ms</jmeter.save.saveservice.timestamp_format>
-						<jmeter.save.saveservice.output_format>csv</jmeter.save.saveservice.output_format>
+						<jmeter.save.saveservice.output_format>xml</jmeter.save.saveservice.output_format>
 						<jmeter.save.saveservice.print_field_names>false</jmeter.save.saveservice.print_field_names>
 					</propertiesJmeter>
 				</configuration>
