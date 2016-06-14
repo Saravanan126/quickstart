@@ -6,14 +6,13 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jmeter-demo</name>
 	<url>http://maven.apache.org</url>
-	
+
 	<pluginRepositories>
 		<pluginRepository>
 			<id>smartbear-sweden-plugin-repository</id>
 			<url>http://www.soapui.org/repository/maven2/</url>
 		</pluginRepository>
 	</pluginRepositories>
-
 	<build>
 		<plugins>
 			<plugin>
@@ -29,6 +28,17 @@
 						</goals>
 					</execution>
 				</executions>
+				<configuration>
+					<testResultsTimestamp>false</testResultsTimestamp>
+					<propertiesJmeter>
+						<log_level.jmeter>DEBUG</log_level.jmeter>
+						<language>en</language>
+						<sampleresult.timestamp.start>true</sampleresult.timestamp.start>
+						<jmeter.save.saveservice.timestamp_format>ms</jmeter.save.saveservice.timestamp_format>
+						<jmeter.save.saveservice.output_format>csv</jmeter.save.saveservice.output_format>
+						<jmeter.save.saveservice.print_field_names>false</jmeter.save.saveservice.print_field_names>
+					</propertiesJmeter>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
