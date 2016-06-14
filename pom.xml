@@ -22,7 +22,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<testResultsTimestamp>false</testResultsTimestamp>
+					<testResultsTimestamp>true</testResultsTimestamp>
 					<propertiesJmeter>
 						<log_level.jmeter>DEBUG</log_level.jmeter>
 						<language>en</language>
