@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testResults version="1.2">
-<httpSample t="367" lt="367" ts="1465856300052" s="true" lb="Create Post Resource" rc="201" rm="Created" tn="Sample API  1-1" dt="text" by="501" ng="1" na="1">
+<httpSample t="529" lt="529" ts="1465872164582" s="true" lb="Create Post Resource" rc="201" rm="Created" tn="Sample API  1-1" dt="text" by="493" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
